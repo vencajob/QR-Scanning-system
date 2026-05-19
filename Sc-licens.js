@@ -1,2 +1,2 @@
 lecensCodeX
-LW31411
+LW31411;2026
